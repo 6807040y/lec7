@@ -26,6 +26,66 @@
 
 ただし、 実行可能なコードなしで単にREADMEを作成しただけでは、当然ながら点数は付与されません……
 
+6.1 目次
+
+1. 「情報とは何か」について独自の考えをまとめ、それを数学や、具体例を示すPythonスクリプトを用いて表現してください。
+
+2. 適切な README.md を作成してください。これには、
+(1) タイトルと概要
+
+(2) 氏名
+
+(3) 提示した結果と同じ結果を得るためにコードを実行する手順についての明確かつ十分な説明
+
+(4) 行ったこと（概要、数学的処理、流れ、目標など）の明確な記述
+
+(5) 結果を示す図
+
+(6)考察と分析を含める必要があります。
+
+READMEファイルには十分な情報が記載されている必要があります。
+
+3. 適切な仮想環境を使用してください。
+
+4. Gitの履歴を適切に管理すること（履歴が全くない場合は許容されますが、コミット履歴が非常に乱雑な場合は、点数が減点される可能性があります）。
+
+5. コーディングにはAIの支援を使用しても構いません（つまり、品質はより高くなければなりません…）。
+
+6. 他の学生と共同作業を行うことは可能ですが、結果をコピー＆ペーストしていることが判明した場合は、0点となります。
+
+6.1 Contents
+
+1. Come up with “your own idea of what information is” and formulate it with math, code python scripts
+that show illustrative examples.
+
+2. Create a proper README.md which must contain
+
+(1) title and overview
+
+(2) your name
+
+(3) clear and sufficient explanations of the steps to take to run the code to obtain the same results that you show
+
+(4) clear descriptions of what you did (overview, math, flow, goal...)
+
+(5) figures showing results,
+
+(6) discussions and analysis. 
+
+Note the README file should be sufficiently informative.
+
+5. Use propoer virtual environment.
+
+6. Proper history of the git (Having no history is acceptable, but if the commit history is very dirty, the
+score may decrease)
+
+7. You can use AI assisting for coding (in other words, the quality should be higher...).
+
+8. You can collaborate with other students, but if I find you copy and paste results, you will get 0 points.
+
+
+
+
 6 Final assignment 
 
 Deadline: Aug 14th, 2026 (end of the day in Japanese time) 
