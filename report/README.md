@@ -48,7 +48,7 @@ conda install numpy matplotlib
 以下のコマンドでプログラムを実行する。
 
 ```bash
-python main.py
+python ex7.py
 ```
 
 ### 3.3 出力結果を確認する
@@ -176,9 +176,9 @@ $$
 M_0 \rightarrow M_-
 $$
 
-[
+$$
 M_0 \rightarrow M_+
-]
+$$
 
 という2つの可能な未来方向がある。
 
@@ -194,9 +194,9 @@ Pythonでは、この微分方程式のベクトル場を描き、安定点、�
 
 この図は、Shannon情報
 
-[
+$$
 I(p)=-\log_2 p
-]
+$$
 
 を表している。
 
